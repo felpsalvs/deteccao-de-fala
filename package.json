@@ -1,0 +1,22 @@
+{
+  "name": "deteccao-de-fala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felpsalvs/deteccao-de-fala.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felpsalvs/deteccao-de-fala/issues"
+  },
+  "homepage": "https://github.com/felpsalvs/deteccao-de-fala#readme"
+}
