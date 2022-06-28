@@ -4,7 +4,6 @@
 ### 🔖 Sobre
 A detecção por voz também é um dos poderes do javascript puro, ele é capaz de transcrever aquilo que estamos dizendo através do microfone, só irá funcionar caso esteja com o microfone ativo. O reconhecimento de voz é inglês somente.
 <br/>
-Teste aqui: https://felpsalvs.github.io/deteccao-de-fala/
 <br/>
 20/30 <br/>
 https://JavaScript30.com 
@@ -18,8 +17,7 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
  <br/>
  
 ### Autor
-Felipe Alves <br/><br/>
-
+Felipe Alves <br/>
 
 Entre em contato comigo, para conexão, sugestão ou dúvida! <br/>
 
