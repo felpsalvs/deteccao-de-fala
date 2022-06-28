@@ -24,4 +24,5 @@ recognition.addEventListener('result', e => {
 });
 
 recognition.addEventListener('end', recognition.start);
+
 recognition.start();
