@@ -6,9 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "scripts": {
-    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\""
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/felpsalvs/deteccao-de-fala.git"
